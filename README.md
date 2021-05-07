@@ -1,7 +1,7 @@
 # DiscordWebhookDelete
 
 ```cs
-import requests
-import time
-import os
+pip install requests
+pip install time
+pip install os
 ```
